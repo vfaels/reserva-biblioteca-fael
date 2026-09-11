@@ -29,6 +29,7 @@ body {
   margin: 4px 0 8px;
   font-size: 28px;
   line-height: 1.25;
+  color: #1a2233;
 }
 
 .hero p {
@@ -84,6 +85,7 @@ body {
 .book-card h2 {
   margin: 0 0 4px;
   font-size: 17px;
+  color: #1a2233;
 }
 
 .book-card p {

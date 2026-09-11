@@ -4,17 +4,17 @@ Confira antes de enviar o link do seu repositório.
 
 ## Funciona
 
-- [ ] `npm install` e `npm run dev` rodam sem erro
-- [ ] os seis livros do arquivo aparecem na tela
-- [ ] o console do navegador (F12) não mostra erro nem aviso de `key`
+- [x] `npm install` e `npm run dev` rodam sem erro
+- [x] os seis livros do arquivo aparecem na tela
+- [x] o console do navegador (F12) não mostra erro nem aviso de `key`
 
 ## Etapa 2 — componentes e listas
 
-- [ ] existe `src/components/BookCard.jsx`
-- [ ] existe `src/components/BookList.jsx`
-- [ ] a lista usa `.map()` com `key={book.id}`
-- [ ] a etiqueta mostra Disponível ou Reservado conforme o livro
-- [ ] lista vazia mostra `Nenhum livro no acervo.`
+- [x] existe `src/components/BookCard.jsx`
+- [x] existe `src/components/BookList.jsx`
+- [x] a lista usa `.map()` com `key={book.id}`
+- [x] a etiqueta mostra Disponível ou Reservado conforme o livro
+- [x] lista vazia mostra `Nenhum livro no acervo.`
 
 ## Etapa 3 — props e children
 
