@@ -1,9 +1,10 @@
-export default function BookCard({ id, title, author, available, onReserve }) {
+export default function BookCard({ id, title, author, year, available, onReserve }) {
   return (
     <article className="book-card">
       <div>
         <h2>{title}</h2>
         <p>{author}</p>
+        <p>{year}</p>
       </div>
 
       <div>
