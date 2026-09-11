@@ -18,10 +18,10 @@ Confira antes de enviar o link do seu repositório.
 
 ## Etapa 3 — props e children
 
-- [ ] as props são desestruturadas na assinatura do componente
-- [ ] o botão do cartão chama uma função recebida por prop, com o `id`
-- [ ] `BookList` apenas encaminha a função, sem decidir nada
-- [ ] existe `src/components/Panel.jsx` usando `children`
+- [x] as props são desestruturadas na assinatura do componente
+- [x] o botão do cartão chama uma função recebida por prop, com o `id`
+- [x] `BookList` apenas encaminha a função, sem decidir nada
+- [x] existe `src/components/Panel.jsx` usando `children`
 
 ## Etapa 4 — estado
 
